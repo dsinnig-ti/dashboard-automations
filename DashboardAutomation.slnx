@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DashboardAutomation.Business/DashboardAutomation.Business.csproj" />
+    <Project Path="src/DashboardAutomation.Common/DashboardAutomation.Common.csproj" />
+    <Project Path="src/DashboardAutomation.Infrastructure/DashboardAutomation.Infrastructure.csproj" />
+    <Project Path="src/DashboardAutomation.Shared/DashboardAutomation.Shared.csproj" />
+    <Project Path="src/DashboardAutomation.Web/DashboardAutomation.Web.csproj" />
+  </Folder>
+</Solution>
