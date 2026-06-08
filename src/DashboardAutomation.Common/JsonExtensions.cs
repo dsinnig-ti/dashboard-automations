@@ -1,6 +1,6 @@
 ﻿
 
-namespace DashboardsAgent.Common
+namespace DashboardAutomation.Common
 {
   public static class JsonExtensions
   {

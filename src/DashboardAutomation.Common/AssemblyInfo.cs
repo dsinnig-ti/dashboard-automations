@@ -6,7 +6,7 @@ global using System.Globalization;
 
 using System.Reflection;
 
-namespace DashboardsAgent.Common;
+namespace DashboardAutomation.Common;
 
 public static class AssemblyInfo
 {

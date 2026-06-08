@@ -1,4 +1,4 @@
-﻿namespace DashboardsAgent.Shared;
+﻿namespace DashboardAutomation.Shared;
 
 public record EventBase : IDomainEvent
 {

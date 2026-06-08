@@ -1,5 +1,5 @@
 
-namespace DashboardsAgent.Common;
+namespace DashboardAutomation.Common;
 
 public class Subscribers<T>
 {

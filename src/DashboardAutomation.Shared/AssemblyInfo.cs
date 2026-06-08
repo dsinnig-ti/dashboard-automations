@@ -5,7 +5,7 @@ global using System;
 global using System.Diagnostics;
 global using System.Reflection;
 
-namespace DashboardsAgent.Shared;
+namespace DashboardAutomation.Shared;
 
 public static class AssemblyInfo
 {

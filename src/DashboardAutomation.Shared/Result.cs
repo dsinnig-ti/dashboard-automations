@@ -1,5 +1,5 @@
 ﻿
-namespace DashboardsAgent.Shared;
+namespace DashboardAutomation.Shared;
 
 [DebuggerDisplay("{IsSuccess}{IsFailed ? \" - Error:\" + Errors[0] : System.String.Empty}")]
 public class Result

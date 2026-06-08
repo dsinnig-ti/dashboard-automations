@@ -2,7 +2,7 @@
 
 using System.Text.RegularExpressions;
 
-namespace DashboardsAgent.Common;
+namespace DashboardAutomation.Common;
 
 public static class ValidationExtension
 {

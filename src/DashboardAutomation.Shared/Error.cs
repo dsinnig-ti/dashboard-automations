@@ -1,5 +1,5 @@
 ﻿
-namespace DashboardsAgent.Shared;
+namespace DashboardAutomation.Shared;
 
 [DebuggerDisplay("{Code} - {Message}")]
 public class Error : IEquatable<Error>

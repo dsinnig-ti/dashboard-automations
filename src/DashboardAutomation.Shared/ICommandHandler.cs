@@ -1,4 +1,4 @@
-﻿namespace DashboardsAgent.Shared;
+﻿namespace DashboardAutomation.Shared;
 
 public interface ICommandHandler<in TCommand, TResponse>
   : IRequestHandler<TCommand, TResponse>

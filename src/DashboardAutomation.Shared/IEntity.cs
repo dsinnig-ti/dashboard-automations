@@ -1,5 +1,5 @@
 ﻿
-namespace DashboardsAgent.Shared;
+namespace DashboardAutomation.Shared;
 
 public interface IEntity
 {

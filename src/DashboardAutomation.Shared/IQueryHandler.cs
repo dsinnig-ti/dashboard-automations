@@ -1,4 +1,4 @@
-﻿namespace DashboardsAgent.Shared;
+﻿namespace DashboardAutomation.Shared;
 
 public interface IQueryHandler<TQuery, TResponse>
   : IRequestHandler<TQuery, TResponse>

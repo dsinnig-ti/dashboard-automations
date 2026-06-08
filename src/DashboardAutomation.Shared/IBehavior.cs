@@ -1,4 +1,4 @@
-﻿namespace DashboardsAgent.Shared;
+﻿namespace DashboardAutomation.Shared;
 
 public interface IBehavior<TRequest, TResponse>
   : IPipelineBehavior<TRequest, TResponse>

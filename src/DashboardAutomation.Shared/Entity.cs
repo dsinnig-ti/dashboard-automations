@@ -1,4 +1,4 @@
-﻿namespace DashboardsAgent.Shared;
+﻿namespace DashboardAutomation.Shared;
 
 public abstract class Entity : IEntity, IEquatable<Entity>
 {
