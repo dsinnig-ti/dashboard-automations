@@ -6,4 +6,5 @@ public class Filter
   public bool IsMultipleSelectionEnabled { get; set; }
   public bool IsDynamicItemsBasedOnDataEnabled { get; set; }
   public bool IsSearchOnColumnDataEnabled { get; set; }
+  public string? Search { get; set; }
 }
