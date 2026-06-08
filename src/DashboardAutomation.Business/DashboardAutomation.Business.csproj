@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DashboardAutomation.Common\DashboardAutomation.Common.csproj" />
+    <ProjectReference Include="..\DashboardAutomation.Shared\DashboardAutomation.Shared.csproj" />
+  </ItemGroup>
+
 </Project>
