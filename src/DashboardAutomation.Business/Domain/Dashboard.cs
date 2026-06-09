@@ -3,9 +3,15 @@ namespace DashboardAutomation.Business;
 public abstract class Dashboard
 {
 
-  private IReadOnlyList<TableColumn> _columns;
-  private IReadOnlyList<Watchlist> _watchlists;
-  private IReadOnlyList<SymbolContext> _symbolContexts;
+  private List<TableColumn> _columns;
+  private List<Watchlist> _watchlists;
+  private List<SymbolContext> _symbolContexts;
+  private Dictionary<string, string> _columnValues;
+
+
+  public string Name { get; private set; }
+  public string Url { get; private set; }
+  public string APIPath { get; private set; }
 
   public MarketDataLookup MarketDataLookup { get; private set; }
 
